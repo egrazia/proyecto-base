@@ -12,7 +12,7 @@ public class ClaseDeTest {
 
         String hiceAlgo = clase.hacerAlgo();
 
-        assertThat(hiceAlgo).isEqualTo("NO Hago algo!");
+        assertThat(hiceAlgo).isEqualTo("Hago algo!");
 
     }
 
